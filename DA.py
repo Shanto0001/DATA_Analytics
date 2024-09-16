@@ -1,13 +1,13 @@
-# print ("SHANTO THOMAS: ")
-# print('''HELLO SHANTO
-#        WHATS GOING ON''')
+print ("SHANTO THOMAS: ")
+print('''HELLO SHANTO
+       WHATS GOING ON''')
 
-# name = input("Enter Your Namae: ")
-# print(name)
-# age = int(input("Enter Your Age"))
-# print(age)
-# exp1 = eval(input("enter exp"))
-# print(exp1)
+name = input("Enter Your Namae: ")
+print(name)
+age = int(input("Enter Your Age"))
+print(age)
+exp1 = eval(input("enter exp"))
+print(exp1)
 
 # TYPECASTING
 A = "Shanto"
@@ -44,3 +44,30 @@ aba = 1234
 bab = "1234"
 
 print(aba is not bab)
+
+
+print(bin(10))
+print(bin(8))
+print(bin(2))
+
+print(10 & 8)
+print(10 | 8)
+print(10 ^ 8)
+
+word =  "SHANTO THOMAS"
+print("H" in word)
+ 
+
+marks= int(79)
+if marks >= 80:
+    print("Congarts u got the mobile phone ")
+else:
+    print("More hard work needed")
+print("Next command")
+
+
+Marks =  float(input("Enter your Marks:- "))
+if Marks >= 90:
+    print("top the class")
+
+

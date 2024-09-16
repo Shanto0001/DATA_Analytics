@@ -16,3 +16,12 @@ age = int(input("Enter your age"))
 # TYPCASTING = CONVERTING ONE DATATYPE INTO OTHER 
 # 1 IMPLICIT TYPECASTING
 # 2 EXPLICIT TYPECASTING
+
+
+#identity operator is & is not  
+
+#Membership Operators
+# is  & is not
+
+
+
