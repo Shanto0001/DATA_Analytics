@@ -25,3 +25,6 @@ age = int(input("Enter your age"))
 
 
 
+Marks =  float(input("Enter your Marks:- "))
+if Marks >= 90:
+    print("top the class")
