@@ -27,3 +27,20 @@ print(type(b))
 c = a+b
 print (c) 
 print (type(c))
+
+
+# LOGICAL OPERATOR
+print(3>2 and 7>3)
+print(7>2 or 2>3)
+print(not(7>2 and 2>3))
+
+
+# Identity Operator is & is not
+ab = 1234
+ba = 1234
+print(ab is ba)
+
+aba = 1234
+bab = "1234"
+
+print(aba is not bab)
