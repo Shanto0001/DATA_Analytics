@@ -1,10 +1,6 @@
-print ("SHANTO THOMAS: ")
-# print('''HELLO SHANTO
-#        WHATS GOING ON''')
+Number = int(input("Enter Number To Check:- "))
+# if Number >= 0:
+#     print("Number Is +ve")
 
-# name = input("Enter Your Namae: ")
-# print(name)
-# age = int(input("Enter Your Age"))
-# print(age)
-# exp1 = eval(input("enter exp"))
-# print(exp1)
+# else: 
+#     print("Number is -ve")
