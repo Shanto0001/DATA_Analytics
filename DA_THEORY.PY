@@ -4,13 +4,13 @@
 # SINGLE LINE COMMENT USE(#)
 # FOR MULTIPLNE LINE COMMENT WE USE (""")
 
-a = "hello"
+# a = "hello"
 # a is variable(it is use to represent anything )
 
-name = input("Enter Your Nmae")
-print(name)
+# name = input("Enter Your Nmae")
+# print(name)
 # input is use in py to give input same as a scanner in java 
-age = int(input("Enter your age"))
+# age = int(input("Enter your age"))
 # command for data_type input
 
 # TYPCASTING = CONVERTING ONE DATATYPE INTO OTHER 
@@ -25,6 +25,12 @@ age = int(input("Enter your age"))
 
 
 
-Marks =  float(input("Enter your Marks:- "))
-if Marks >= 90:
-    print("top the class")
+# Marks =  float(input("Enter your Marks:- "))
+# if Marks >= 90:
+#     print("top the class")
+
+    #nested loop is (loop inside loop)
+for (i) in range (0,11):
+        for (j) in range(1,i+1):
+            print(j,end=" ")
+        print()
