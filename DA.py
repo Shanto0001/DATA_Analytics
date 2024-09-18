@@ -96,3 +96,11 @@ while True:
     if again == "YES":
         break
 
+for (go) in range(1,10):
+    if go % 2==0:
+              continue 
+    if go == 3:
+        print("Got the topic ")   
+            
+    else:
+             print(go)
